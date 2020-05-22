@@ -37,7 +37,14 @@ LINKS = (
          ('Wow in the World', 'https://www.npr.org/podcasts/510321/wow-in-the-world'),
          ('Talk Python To Me', 'https://talkpython.fm/'),
          ('Python Bytes', 'https://pythonbytes.fm/'),
+         ('--VIDEO ONLINE--', '#'),
+         ('Clear Skies - Star Trek Adventures Tabletop RPG', 'https://www.youtube.com/playlist?list=PLHVibqh7yRwogVxLuZzYAlEDkyz0DB0b8'),
+         ('Critical Role', 'https://critrole.com/'),
          ('--OTHER SITES--', '#'),
+         ('Brent Ozar', 'https://www.brentozar.com/'),
+         ('SQL Server First Responder Kit', 'https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit'),
+         ('sp_whoisactive', 'http://whoisactive.com/'),
+         ('Ola Hallengren SQL Server Maintenance Solution', 'https://ola.hallengren.com/'),
          ('Python.org', 'http://python.org/'),
          ('Real Python', 'https://realpython.com/'),
          ('linode','https://www.linode.com/'),
@@ -46,10 +53,10 @@ LINKS = (
          )
 
 # Social widget
-SOCIAL = (('Jakob Breving-Johnson@Pluralsight', 'https://app.pluralsight.com/profile/jakob-breving-johnso'),
-          ('jbreving@LinkedIn', 'https://www.linkedin.com/in/jbreving/'),
-          ('jbreving@GitHub', 'https://github.com/jbreving'),
-          ('jbreving@StackOverflow', 'https://stackoverflow.com/users/8565388/jbreving'))
+SOCIAL = (('Pluralsight', 'https://app.pluralsight.com/profile/jakob-breving-johnso'),
+          ('LinkedIn', 'https://www.linkedin.com/in/jbreving/'),
+          ('GitHub', 'https://github.com/jbreving'),
+          ('StackOverflow', 'https://stackoverflow.com/users/8565388/jbreving'))
 
 DEFAULT_PAGINATION = 10
 
