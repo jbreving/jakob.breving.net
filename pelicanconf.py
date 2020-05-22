@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Jakob Breving'
+AUTHOR = 'Jakob Breving-Johnson'
 SITENAME = 'Breving.net'
 SITEURL = 'www.breving.net'
 
@@ -61,4 +61,4 @@ SOCIAL = (('Pluralsight', 'https://app.pluralsight.com/profile/jakob-breving-joh
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
