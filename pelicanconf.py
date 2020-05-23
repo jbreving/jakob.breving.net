@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Jakob Breving-Johnson'
 SITENAME = 'Breving.net'
-SITEURL = 'www.breving.net'
+SITEURL = 'http://www.breving.net'
 
 PATH = 'content'
 
@@ -21,8 +21,9 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-         ('--SIGNAL BOOST--', '#'),
+         ('--SIGNAL BOOST>>', '#'),
          ('Intelligame', 'https://intelligame.us/'),
+         ('<<SIGNAL BOOST--', '#'),
          ('--COMICS--', '#'),
          ('Schlock Mercenary', 'https://www.schlockmercenary.com/archives/'),
          ('Erfworld', 'https://archives.erfworld.com/'),
@@ -37,6 +38,7 @@ LINKS = (
          ('Wow in the World', 'https://www.npr.org/podcasts/510321/wow-in-the-world'),
          ('Talk Python To Me', 'https://talkpython.fm/'),
          ('Python Bytes', 'https://pythonbytes.fm/'),
+         ('', '#'),
          ('--VIDEO ONLINE--', '#'),
          ('Clear Skies - Star Trek Adventures Tabletop RPG', 'https://www.youtube.com/playlist?list=PLHVibqh7yRwogVxLuZzYAlEDkyz0DB0b8'),
          ('Critical Role', 'https://critrole.com/'),
@@ -62,3 +64,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+THEME = './themes/pelican-blueidea/'
