@@ -1,4 +1,4 @@
-#!C:\Users\Stark\Documents\breving.net\pelican_venv\Scripts\python.exe
+#!C:\Users\Stark\Documents\jakob.breving.net\pelican_venv\Scripts\python.exe
 
 # Author:
 # Contact: grubert@users.sf.net

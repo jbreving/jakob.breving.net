@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Stark\Documents\breving.net\pelican_venv"
+VIRTUAL_ENV="C:\Users\Stark\Documents\jakob.breving.net\pelican_venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

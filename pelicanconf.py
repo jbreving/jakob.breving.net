@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Jakob Breving-Johnson'
-SITENAME = 'Breving.net'
-SITEURL = 'http://www.breving.net'
+SITENAME = 'Jakob.Breving.net'
+SITEURL = 'http://jakob.breving.net'
 
 PATH = 'content'
 
@@ -48,6 +48,7 @@ LINKS = (
          ('sp_whoisactive', 'http://whoisactive.com/'),
          ('Ola Hallengren', 'https://ola.hallengren.com/'),
          ('Real Python', 'https://realpython.com/'),
+         ('AlternativeTo', 'https://alternativeto.net/'),
          ('linode','https://www.linode.com/'),
          )
 

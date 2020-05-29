@@ -1,4 +1,4 @@
-#!C:\Users\Stark\Documents\breving.net\pelican_venv\Scripts\python.exe
+#!C:\Users\Stark\Documents\jakob.breving.net\pelican_venv\Scripts\python.exe
 
 # $Id: rst2html.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: David Goodger <goodger@python.org>

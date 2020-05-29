@@ -11,7 +11,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 SSH_HOST=logan.breving.net
 SSH_PORT=22
 SSH_USER=stark
-SSH_TARGET_DIR=/var/www/breving.net
+SSH_TARGET_DIR=/var/www/jakob.breving.net
 
 
 DEBUG ?= 0
