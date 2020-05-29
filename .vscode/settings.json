@@ -1,5 +1,6 @@
 {
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "restructuredtext.confPath": ""
+    "restructuredtext.confPath": "",
+    "python.pythonPath": "c:\\Users\\Stark\\Documents\\jakob.breving.net\\pelican_venv\\Scripts\\python.exe"
 }
