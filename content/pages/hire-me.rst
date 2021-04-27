@@ -59,8 +59,8 @@ Volunteer Effort
 Technical Certifications and Training
 -------------------------------------
 
-- Microsoft Certified Solutions Expert: Data Management and Analytics – `Certified 2021 <https://www.youracclaim.com/badges/ab2f9be2-64fa-4141-98f5-9dab39671bf3>`_
-- Microsoft Certified Solutions Associate: Database Administration – `Certified 2021 <https://www.youracclaim.com/badges/207f245e-91d2-452c-aee9-390326ae93c9>`_
+- Microsoft Certified Solutions Expert: Data Management and Analytics – `Certified MCSE 2021 <https://www.youracclaim.com/badges/ab2f9be2-64fa-4141-98f5-9dab39671bf3>`_
+- Microsoft Certified Solutions Associate: Database Administration – `Certified MCSA 2021 <https://www.youracclaim.com/badges/207f245e-91d2-452c-aee9-390326ae93c9>`_
 - Tableau `Desktop Accelerated <https://www.tableau.com/learn/classroom/desktop-accelerated>`_, `Desktop Advanced <https://www.tableau.com/learn/classroom/desktop-three>`_, and `Server Administration <https://www.tableau.com/learn/classroom/server-admin>`_ classes. 
 
 
