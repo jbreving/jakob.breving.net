@@ -1,7 +1,7 @@
 HIRE ME
 #######
 
-:date: 2020-05-22
+:date: 2021-04-27
 :tags: resume, cv
 :slug: hire-me
 :author: Jakob Breving-Johnson
@@ -55,11 +55,13 @@ Volunteer Effort
 - Stuffed envelopes and labelled mailings
 - Other technical assistance as needed
 
-Technical Training
-------------------
 
-- Tableau Desktop Accelerated, Desktop Advanced, and Server Administration classes. 
-- SQL Server Design, Implementation, and Administration as well as SQL Server Analysis Services. Based on official Microsoft courses.
+Technical Certifications and Training
+-------------------------------------
+
+- Microsoft Certified Solutions Expert: Data Management and Analytics – `Certified 2021 <https://www.youracclaim.com/badges/ab2f9be2-64fa-4141-98f5-9dab39671bf3>`_
+- Microsoft Certified Solutions Associate: Database Administration – `Certified 2021 <https://www.youracclaim.com/badges/207f245e-91d2-452c-aee9-390326ae93c9>`_
+- Tableau `Desktop Accelerated <https://www.tableau.com/learn/classroom/desktop-accelerated>`_, `Desktop Advanced <https://www.tableau.com/learn/classroom/desktop-three>`_, and `Server Administration <https://www.tableau.com/learn/classroom/server-admin>`_ classes. 
 
 
 Education
