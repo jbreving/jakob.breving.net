@@ -12,16 +12,17 @@ I'm awesome, here's the dry stuff to tell you why.
 Experience
 ----------
 | **South Suburban College** – South Holland, IL (2009 – Present)
-| *Computer Programmer* (2009 to 2013)
 | *Systems Analyst* (2013 to Present)
+| *Computer Programmer* (2009 to 2013)
 
-Hired for experience with SQL to develop customizations and maintain new student information system through migration and implementation and on. Led training for IT personnel and other college staff to teach new systems and necessary new skills. Contributed to administration and development of the new system.
+Hired for experience with SQL to develop customizations and maintain new student information system (SIS) through migration and implementation and on. Led training for IT personnel and other college staff to teach new systems and necessary new skills. Contributed to administration and development of the new system.
 
+- Responded quickly to correct or mitigate database outages and critical performance problems
 - Built data warehouse to support data-driven decision-making with our student information system
 - Developed critical scripts and processes using SQL and Python to integrate systems and monitor, extract, and submit data to fulfill statutory reporting requirements for state and federal agencies
 - Maintained relationships with key administrators and staff to ensure accurate reporting year to year
-- Pioneered administration, security, and development of business intelligence tools Tableau and Business Objects
-- Designed and lead training covering SQL development for team members, Tableau visualizations and dashboards for decision makers, Business Objects report development for local users, and technical student system processes for users
+- Pioneered administration, security, and development of BI tools Tableau and Business Objects
+- Designed and lead training covering SQL development, BI development and use, and SIS processes
 - Took lead on identifying data relevant for internal use as well as state and federal reporting for data warehouse development and ETL process design
 - Quickly tested and performed critical fixes to maintain live student, employee, and other records
 - Evaluated and reported systems capabilities to superiors and administration
@@ -67,6 +68,8 @@ Technical Certifications and Training
 Education
 ---------
 
-| **Eastern Illinois University** - Charleston, IL (2006 –2009)  
-|     Bachelor of Science in Business  
-|         Management Information Systems (MIS) major, Business Programming concentration
+**Eastern Illinois University** - Charleston, IL (2006 – 2009)
+
+    Bachelor of Science in Business
+
+        Management Information Systems (MIS) major, Business Programming concentration
