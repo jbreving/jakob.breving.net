@@ -49,6 +49,7 @@ LINKS = (
          ('Ola Hallengren', 'https://ola.hallengren.com/'),
          ('Real Python', 'https://realpython.com/'),
          ('AlternativeTo', 'https://alternativeto.net/'),
+         ('SS64 (command reference)', 'https://ss64.com/'),
          )
 
 # Social widget
