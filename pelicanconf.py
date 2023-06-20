@@ -49,7 +49,6 @@ LINKS = (
          ('Ola Hallengren', 'https://ola.hallengren.com/'),
          ('Real Python', 'https://realpython.com/'),
          ('AlternativeTo', 'https://alternativeto.net/'),
-         ('linode','https://www.linode.com/'),
          )
 
 # Social widget
